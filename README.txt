@@ -68,3 +68,10 @@ Use of this function comes with several assumptions:
    The estimated accuracy of this function is O(1e-4) for |z| < 6.0, and
    O(1e-6) for |z| > 6.0.
 ================================================================================
+References
+================================================================================
+[1] H. Henryson II, B. J. Toppel, and C. G. Stenberg. MC2^2: A Code to Calculate Fast Neutron Spectra and Multigroup Cross Sections. Technical Report Argonne-8144, Argonne National Laboratory (1976).
+[2] C. Josey, B. Forget, and K. S. Smith, “EFFICIENCY AND ACCURACY EVALUATION OF THE WINDOWED MULTIPOLE DIRECT DOPPLER BROADENING METHO,” presented at the PHYSOR 2014 - The Role of Reactor Physics toward a Sustainable Future, 2014.
+[3]	S. M. Abrarov and B. M. Quine, “A rapid and highly accurate approximation for the error function of complex argument,” arXiv.org, vol. math.NA. 14-Aug-2013.
+[4]	S. M. Abrarov and B. M. Quine, “Applied Mathematics and Computation,” Applied Mathematics and Computation, vol. 218, no. 5, pp. 1894–1902, Nov. 2011.
+[5] S. G. Johnson. “Faddeeva package - abinitio.” URL http://ab-initio.mit.edu/wiki/ index.php/Faddeeva_Package (2013).
