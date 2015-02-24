@@ -38,7 +38,7 @@ DD888DDD888DDDD888DDDD88DDDD888DDDD888DDD888DDDD8888DD888DDDD888DDDD888DDD888DDD
          A fast approximation of the Faddeeva function W(z) for use in
        applications where the imaginary component of z is greater than 0.
        Ideal for SLBW nuclear resonance calculations where high fidelity
-                                is not required.
+                         is not required. Written in C.
 ================================================================================
 Overview
 ================================================================================
