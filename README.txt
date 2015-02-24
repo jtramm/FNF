@@ -67,6 +67,7 @@ Use of this function comes with several assumptions:
    compared to reference implentations such as the MIT W function[5].
    The estimated accuracy of this function is O(1e-4) for |z| < 6.0, and
    O(1e-6) for |z| > 6.0.
+
 ================================================================================
 References
 ================================================================================
